@@ -1,0 +1,22 @@
+{
+  "name": "aws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "aws-sdk": "^2.741.0",
+    "mongodb": "^3.6.2",
+    "serverless": "^1.83.0",
+    "serverless-plugin-include-dependencies": "^4.1.0",
+    "stripe": "^8.93.0",
+    "to": "^0.2.9",
+    "update": "^0.7.4",
+    "uuid": "^8.3.0"
+  }
+}
