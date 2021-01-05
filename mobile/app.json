@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "OkyCode",
+    "slug": "appcms-okycode",
+    
+    "description": "App show all information about OkyCode",
+    "version": "1.0.2",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "privacy": "public",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "app.okycode.org"
+    },
+    "android": {
+      "package": "app.okycode.org",
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
