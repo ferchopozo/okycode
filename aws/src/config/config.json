@@ -1,6 +1,0 @@
-{ 
-    "accessKeyId": "fakeid",
-    "secretAccessKey": "fakeid",
-    "region": "local",
-    "endpoint": "http://localhost:8000"
-}
