@@ -5,7 +5,7 @@ This project was built in React and React Native.
 
 Site in Gatsby with React and improved for SEO.
 
-## APP
+## Mobile
 
 App built in React Native 
 
