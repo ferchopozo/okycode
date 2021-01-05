@@ -2,7 +2,6 @@
 
 const AWS = require('aws-sdk');
 const stripeKey = process.env.STRIPE_KEY;
-//const stripeKey = "sk_test_W6rurRsS9GBXUOv7QARxKzSo00k4XHzdHp";
 AWS.config.update({region:'us-east-1'});
 const stripe = require('stripe')(stripeKey);
 const dynamoDb = new AWS.DynamoDB.DocumentClient();
